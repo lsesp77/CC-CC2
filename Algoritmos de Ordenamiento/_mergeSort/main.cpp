@@ -57,6 +57,7 @@ int main()
 {
     int tam=5,a[tam];
 
+
     cout<<"Ingrese 5 valores a ordenar:"<<endl;
     for(int i=0; i<tam; i++){
         cin>>a[i];
